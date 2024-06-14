@@ -1,0 +1,4 @@
+[console_scripts]
+robot_controller = warehouse_robot_controller_pkg.robot_controller:main
+robot_estimator = warehouse_robot_controller_pkg.robot_estimator:main
+

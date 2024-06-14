@@ -1,0 +1,25 @@
+running egg_info
+writing ../../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/requires.txt
+writing top-level names to ../../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/top_level.txt
+reading manifest file '../../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+copying warehouse_robot_spawner_pkg/spawn_demo.py -> /home/gnaneshwar/dev_ws/build/warehouse_robot_spawner_pkg/build/lib/warehouse_robot_spawner_pkg
+running install
+running install_lib
+copying /home/gnaneshwar/dev_ws/build/warehouse_robot_spawner_pkg/build/lib/warehouse_robot_spawner_pkg/spawn_demo.py -> /home/gnaneshwar/dev_ws/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages/warehouse_robot_spawner_pkg
+byte-compiling /home/gnaneshwar/dev_ws/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages/warehouse_robot_spawner_pkg/spawn_demo.py to spawn_demo.cpython-38.pyc
+running install_data
+creating /home/gnaneshwar/dev_ws/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/models/my_robot
+copying ./models/my_robot/model.config -> /home/gnaneshwar/dev_ws/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/models/my_robot/
+copying ./models/my_robot/model.sdf -> /home/gnaneshwar/dev_ws/install/warehouse_robot_spawner_pkg/share/warehouse_robot_spawner_pkg/models/my_robot/
+running install_egg_info
+removing '/home/gnaneshwar/dev_ws/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages/warehouse_robot_spawner_pkg-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/warehouse_robot_spawner_pkg/warehouse_robot_spawner_pkg.egg-info to /home/gnaneshwar/dev_ws/install/warehouse_robot_spawner_pkg/lib/python3.8/site-packages/warehouse_robot_spawner_pkg-0.0.0-py3.8.egg-info
+running install_scripts
+Installing spawn_demo script to /home/gnaneshwar/dev_ws/install/warehouse_robot_spawner_pkg/lib/warehouse_robot_spawner_pkg
+writing list of installed files to '/home/gnaneshwar/dev_ws/build/warehouse_robot_spawner_pkg/install.log'
